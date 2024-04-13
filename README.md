@@ -30,9 +30,10 @@ Here are some ideas to get you started:
   </a>
   </br>
   <a href="your-youtube-URL">
-    <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge"/>
+    <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge" height="70"/>
+    @akimmel
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail Badge" height="70"/>
   </a>
 </div>
