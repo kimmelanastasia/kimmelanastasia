@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </div>
 
 ### About me
-- 📍:gb: English B2
+- 📍🇬🇧 English B2
