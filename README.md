@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kimmelanastasia/kimmelanastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <h1>Привет, я Анастасия!</h1>
+  <h1>Привет, я Анастасия!👋</h1>
   <h3>Стдентка МГТУ и перспективный начинающий программист</h3>
 </div>
