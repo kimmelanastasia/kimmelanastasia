@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 - 🗺️ Знание английского B2
 
 ### Контакты
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="https://vk.com/kimmel2003">
     <img src="https://cdn-icons-png.freepik.com/256/226/226239.png" alt="VK Badge" height=70/>
-    @akimmel
   </a>
-  </br>
-  <a href="your-youtube-URL">
+  
+  <a href="https://t.me/akimmel">
     <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge" height="70"/>
     @akimmel
   </a>
-  <a href="your-twitter-URL">
+  <a href="mailto:kimmelanastasia143@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail Badge" height="70"/>
   </a>
 </div>
