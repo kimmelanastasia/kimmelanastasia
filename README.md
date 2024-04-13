@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ### Контакты
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://cdn-icons-png.freepik.com/256/226/226239.png" alt="VK Badge" height=50/>
+    <img src="https://cdn-icons-png.freepik.com/256/226/226239.png" alt="VK Badge" height=70/>
   </a>
+  </br>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
