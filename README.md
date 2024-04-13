@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Контакты
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="[https://pk33.mskobr.ru/files/novosti/%D0%A1%D0%BE%D1%86%20%D1%81%D0%B5%D1%82%D0%B8/d91bcb8ad3862eef5b07e48bc149f4.png](https://pngicon.ru/file/uploads/vk.png)" alt="VK Badge"/>
+    <img src="https://w7.pngwing.com/pngs/829/341/png-transparent-samsung-galaxy-j7-samsung-galaxy-3-vk-android-android-blue-electric-blue-mobile-phones.png" alt="VK Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
