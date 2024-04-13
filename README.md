@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   
   <a href="https://t.me/akimmel">
     <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge" height="70"/>
-    @akimmel
   </a>
   <a href="mailto:kimmelanastasia143@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail Badge" height="70"/>
