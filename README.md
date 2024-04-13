@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Контакты
 <div id="badges" align="center">
   <a href="https://vk.com/kimmel2003">
-    <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/d7e0dea6-1903-4a4b-1996-0bb3edfb2400/public" alt="VK Badge" height=70/>
+    <img src="https://mmbuk-rodnik.ru/images/info/PinClipartcom_campin.png" alt="VK Badge" height=70/>
   </a>
   
   <a href="https://t.me/akimmel">
