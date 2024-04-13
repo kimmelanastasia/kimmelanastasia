@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Контакты
 <div id="badges" align="center">
   <a href="https://vk.com/kimmel2003">
-    <img src="https://mmbuk-rodnik.ru/images/info/PinClipartcom_campin.png" alt="VK Badge" height=70/>
+    <img src="https://i0.wp.com/xn--80ajk9a.xn--80acgfbsl1azdqr.xn--p1ai/files/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5_0.png?ssl=1" alt="VK Badge" height=70/>
   </a>
   
   <a href="https://t.me/akimmel">
