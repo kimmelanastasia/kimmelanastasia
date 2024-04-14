@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - Backend и frontend разработка
 <div>
   <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
-  <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="65" />
+  <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="60" />
 </div>
 - CAD, CAE моделирование
 <div>
