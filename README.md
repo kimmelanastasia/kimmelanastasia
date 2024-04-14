@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 - Backend и frontend разработка
 <div>
-  <img src="https://www.svgrepo.com/show/183637/html5.svg"/>
+  <img src="https://soft-inc.ru/wp-content/uploads/2022/05/logo_KOMPAS_1024-1536x1536.png"/>
 </div>
 - CAD, CAE моделирование
 <div>
