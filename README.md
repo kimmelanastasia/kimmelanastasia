@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 - CAD, CAE моделирование
 <div>
-  <img src="https://sun1-22.userapi.com/s/v1/ig2/CL7h7fxNHPFnTqp0npn6RWXfcM0w_X55Y7nRMG1_YrKTNxFpadVn-BChd31Xel52gEfjKonbkGeMnyyr8xd-yF6E.jpg?size=2224x2560&quality=95&crop=0,0,2224,2560&ava=1" height="60"/>
+  <img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fsoft-inc.ru%2Fwp-content%2Fuploads%2F2022%2F05%2Flogo_KOMPAS_1024.png&lr=213&pos=2&rpt=simage&text=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D1%81%203d%20icon" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" height="60"/>
 </div>
 - Компьютерная графика
