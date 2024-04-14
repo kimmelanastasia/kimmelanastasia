@@ -35,11 +35,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### :hummer_and_wrench: Языки и навыки :
+### 🛠️ Языки и навыки :
 - Программирование на различных языках
-<img src="https://w7.pngwing.com/pngs/646/751/png-transparent-the-c-programming-language-computer-programming-programmer-others-blue-class-logo.png" height="20"/>
-<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="20"/>
-<img src="" height="20"/>
+<div>
+<img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="40"/>
+<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="40"/>
+<img src="" height="40"/>
+</div>
 - Аналитика данных 
 - CAD, CAE моделирование
 - Компьютерная графика
