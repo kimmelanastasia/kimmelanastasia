@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://i0.wp.com/xn--80ajk9a.xn--80acgfbsl1azdqr.xn--p1ai/files/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5_0.png?ssl=1" alt="VK Badge" height=70/>
   </a>
   <a href="https://t.me/akimmel">
-    <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge" height="70" margin="10"/>
+    <img src="https://pngicon.ru/file/uploads/telegram.png" alt="Telegram Badge" height="70" style="margin:0 0 0 100px;"/>
   </a>
   <a href="mailto:kimmelanastasia143@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail Badge" height="70"/>
