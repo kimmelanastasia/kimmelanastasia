@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### 🛠️ Языки и навыки :
+### 🛠️ Языки и навыки
+
 - Программирование на различных языках
 <div>
   <img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="65"/>
