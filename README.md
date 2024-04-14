@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - CAD, CAE моделирование
 <div>
   <img src="https://soft-inc.ru/wp-content/uploads/2022/05/logo_KOMPAS_1024-1536x1536.png" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" height="60"/>
 </div>
 - Компьютерная графика
 <div>
