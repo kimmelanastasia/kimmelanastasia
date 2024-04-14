@@ -47,5 +47,9 @@ Here are some ideas to get you started:
   <img src="https://luxe-host.ru/wp-content/uploads/8/7/5/875342a3517d0d30993f90b25803c31d.png" height="60"/>
 </div>
 - CAD, CAE моделирование
+<div>
+  <img src="https://sun1-22.userapi.com/s/v1/ig2/CL7h7fxNHPFnTqp0npn6RWXfcM0w_X55Y7nRMG1_YrKTNxFpadVn-BChd31Xel52gEfjKonbkGeMnyyr8xd-yF6E.jpg?size=2224x2560&quality=95&crop=0,0,2224,2560&ava=1" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" height="60"/>
+</div>
 - Компьютерная графика
 - Вычислительная математика: алгоритмы решений различных уравнений (линейных, дифференциальных, интегральных)
