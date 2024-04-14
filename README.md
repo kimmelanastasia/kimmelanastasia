@@ -36,29 +36,33 @@ Here are some ideas to get you started:
 </div>
 
 ### 🛠️ Языки и навыки
-
 - Программирование на различных языках
 <div>
   <img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="65"/>
   <img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="60"/>
   <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
 </div>
+
 - Аналитика данных 
 <div>
   <img src="https://luxe-host.ru/wp-content/uploads/8/7/5/875342a3517d0d30993f90b25803c31d.png" height="60"/>
 </div>
+
 - Backend и frontend разработка
 <div>
   <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
   <img src="https://4.bp.blogspot.com/-K3xPJlyU5mk/XGfNIFz6yyI/AAAAAAAAR80/A4JTnhu4ilUdnQ3TgtgE414oRw55owL8QCLcBGAs/s1600/HTML%2B5.png" height="60"/>
 </div>
+
 - CAD, CAE моделирование
 <div>
   <img src="https://soft-inc.ru/wp-content/uploads/2022/05/logo_KOMPAS_1024-1536x1536.png" height="60"/>
   <img src="https://camo.githubusercontent.com/581ecb608fdf3b4cccb5dda687028c0f6648388f0f77e4ee83a14b8e7bfa3e81/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f352f35312f5369656d656e735f4e585f4c6f676f2e706e67" height="60"/>
 </div>
+
 - Компьютерная графика
 <div>
   <img src="https://mateigiurgiu.com/wp-content/uploads/2019/02/opengl-logo.png" height="60"/>
 </div>
+
 - Вычислительная математика: алгоритмы решений различных уравнений (линейных, дифференциальных, интегральных)
