@@ -38,11 +38,14 @@ Here are some ideas to get you started:
 ### 🛠️ Языки и навыки :
 - Программирование на различных языках
 <div>
-<img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="65"/>
-<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="60"/>
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="65"/>
+  <img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="60"/>
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
 </div>
 - Аналитика данных 
+<div>
+  <img src="https://luxe-host.ru/wp-content/uploads/8/7/5/875342a3517d0d30993f90b25803c31d.png" height="60"/>
+</div>
 - CAD, CAE моделирование
 - Компьютерная графика
 - Вычислительная математика: алгоритмы решений различных уравнений (линейных, дифференциальных, интегральных)
