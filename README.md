@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - CAD, CAE моделирование
 <div>
   <img src="https://soft-inc.ru/wp-content/uploads/2022/05/logo_KOMPAS_1024-1536x1536.png" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" height="60"/>
+  <img src="https://camo.githubusercontent.com/581ecb608fdf3b4cccb5dda687028c0f6648388f0f77e4ee83a14b8e7bfa3e81/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f352f35312f5369656d656e735f4e585f4c6f676f2e706e67" height="60"/>
 </div>
 - Компьютерная графика
 <div>
