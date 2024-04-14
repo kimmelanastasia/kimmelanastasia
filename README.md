@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 <div>
   <img src="https://luxe-host.ru/wp-content/uploads/8/7/5/875342a3517d0d30993f90b25803c31d.png" height="60"/>
 </div>
+- Backend и frontend разработка
+<div>
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
+  <img src="https://web-creator.ru/technologies/html5.png" height="65" />
+</div>
 - CAD, CAE моделирование
 <div>
   <img src="https://soft-inc.ru/wp-content/uploads/2022/05/logo_KOMPAS_1024-1536x1536.png" height="60"/>
