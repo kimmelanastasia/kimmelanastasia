@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 </div>
 - Backend и frontend разработка
 <div>
-  <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png"/>
+   <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
+  <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" height="60/>
 </div>
 - CAD, CAE моделирование
 <div>
