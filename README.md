@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 - Backend и frontend разработка
 <div>
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/106700838/original/f50c2f596e6c9c943a6f17ddd34f5b6d324f01c2/develop-software-application-with-html-angularjs.png"/>
+  <img src="https://www.svgrepo.com/show/183637/html5.svg"/>
 </div>
 - CAD, CAE моделирование
 <div>
