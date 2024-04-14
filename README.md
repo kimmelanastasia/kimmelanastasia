@@ -34,3 +34,13 @@ Here are some ideas to get you started:
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail Badge" height="70"/>
   </a>
 </div>
+
+### :hummer_and_wrench: Языки и навыки :
+- Программирование на различных языках
+<img src="https://w7.pngwing.com/pngs/646/751/png-transparent-the-c-programming-language-computer-programming-programmer-others-blue-class-logo.png" height="20"/>
+<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="20"/>
+<img src="" height="20"/>
+- Аналитика данных 
+- CAD, CAE моделирование
+- Компьютерная графика
+- Вычислительная математика: алгоритмы решений различных уравнений (линейных, дифференциальных, интегральных)
