@@ -52,4 +52,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" height="60"/>
 </div>
 - Компьютерная графика
+<div>
+  <img src="https://mateigiurgiu.com/wp-content/uploads/2019/02/opengl-logo.png" height="60"/>
+</div>
 - Вычислительная математика: алгоритмы решений различных уравнений (линейных, дифференциальных, интегральных)
