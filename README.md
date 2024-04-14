@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 - Backend и frontend разработка
 <div>
-  <img src="https://2.bp.blogspot.com/-MeDr0lpaSTc/V_WvknpPDFI/AAAAAAAAAA8/jKLzb1MzKR4bFt-8JyNKVwntGT8sv9tKgCPcB/s200/html.png" height="60"/>
+  <img src="https://www.caribation.com/service/images/CSS3_HTML52.png" height="60"/>
 </div>
 - CAD, CAE моделирование
 <div>
