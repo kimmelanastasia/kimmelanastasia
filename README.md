@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 🛠️ Языки и навыки :
 - Программирование на различных языках
 <div>
-<img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="60"/>
-<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="50"/>
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="40"/>
+<img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" height="65"/>
+<img src="https://play-lh.googleusercontent.com/YHvVywIuLQj2BQnLZQExKaR6p6VW6nyf_nafLiL-6OVlOTQjoaZ8a1RQRLKalUY3Kw" height="60"/>
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="60"/>
 </div>
 - Аналитика данных 
 - CAD, CAE моделирование
